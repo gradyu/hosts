@@ -1,0 +1,86 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting. Do not change this entry.
+##
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+
+# github
+185.199.110.133 raw.githubusercontent.com
+
+# MacWk.com Hosts Start
+# Viscosity
+127.0.0.1 sparklabs.com
+127.0.0.1 swupdate.sparklabs.com
+127.0.0.1 www.sparklabs.com
+# Royal TSX
+127.0.0.1 api.royalapps.com
+# MacWk.com Hosts End
+
+# dfyx
+10.10.10.10 git.svlab.com
+10.10.10.25 jmp.svlab.com
+#10.10.10.35 dev.svlab.com
+36.137.161.230 dev.svlab.com
+10.10.10.15 jenkins.svlab.com
+10.30.90.10 admin.usharingtech.com
+10.10.10.25 dev.usharingtech.com
+10.30.90.10 iov.usharingtech.com
+10.30.90.10 lb.kubesphere.local
+10.10.10.25 lb.kubesphere.dev.local
+10.30.100.101 master1.cluster.local
+10.10.10.25 mq.usharingtech.com
+10.30.100.50 registry.usharingtech.com
+10.30.100.51 harbor.usharingtech.com
+36.137.161.230 app.svlab.com
+36.133.220.62 vpn.svlab.com
+# host
+192.168.0.100  nas.home.com
+192.168.196.91 nas.svlab.com
+#10.8.42.240    nas.svlab.com
+192.168.196.85 nas.grady.com
+192.168.196.85 git.grady.com
+97.64.35.138   vps.grady.com
+# VM
+192.168.56.110 master.local
+192.168.56.111 node1.local
+192.168.56.112 node2.local
+192.168.25.200 arch.local
+192.168.25.210 wind.local
+
+# whdc
+172.24.110.189 dev.whdc.com
+#192.168.1.180 dev.whdc.com
+172.24.110.189 master.cluster.local
+#192.168.1.180 master.cluster.local
+#192.168.1.180 yancao.whdcicloud.cn
+121.40.73.240 jmp.whdc.com
+120.27.247.22 srv.whdc.com
+#120.27.229.29 dev.whdc.com
+#120.27.229.29 yancao.whdcicloud.cn
+
+# svdc
+10.8.40.50  filez.svdc.com
+10.8.44.1   store.svdc.com
+10.8.42.240 nas.svdc.com
+10.8.40.100 dev.svdc.com
+10.8.40.101 docker.dev.svdc.com
+10.8.40.150 ops.svdc.com
+10.8.40.151 git.svdc.com
+10.8.40.152 jenkins.svdc.com
+10.8.40.153 docker.svdc.com
+10.8.40.154 harbor.svdc.com
+10.8.40.155 zentao.svdc.com
+10.8.40.160 ngx.svdc.com
+10.8.40.180 win.svdc.com
+10.8.40.243 nfs.svdc.com
+
+# rainey
+10.8.40.20  dev.rainey.com
+10.8.40.21  dck.rainey.com
+10.8.40.22  web.rainey.com
+10.8.40.35  arch.rainey.com
+10.8.40.40  srv.rainey.com
